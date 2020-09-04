@@ -22,11 +22,11 @@
 
 - 📫 How to reach me: use the badges above 😃
 
-- :bulb: First solve the problem, then write the code :innocent:
+- :bulb: Fun facts : First solve the problem, then write the code :innocent:
 
 - :sunglasses: My technology stack is Java,Spring Framework,Spring Boot,Azure,Docker,Kubernates,SQL-Server,Oracle,Redis,REST API, Microservices
 
-- 🌱 I’m currently learning Clean Code Principles.
+- :dart: Motivated towards Clean Code Principles.
 
 - :book: I'm currently reading The Pragmatic Programmer Book by Andy Hunt and Dave Thomas.
 
