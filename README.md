@@ -24,11 +24,16 @@
 
 - :bulb: Fun facts : First solve the problem, then write the code :innocent:
 
-- :sunglasses: My technology stack : Java,Spring,Spring Boot,Azure,Docker,Kubernates,SQL-Server,Oracle,Redis,REST API,Microservices.
-
 - :dart: Motivated towards Clean Code Principles.
 
 - :book: I'm currently reading "The Pragmatic Programmer Book by Andy Hunt and Dave Thomas".
+
+## My technology stack 
+
+:sunglasses:
+
+<script src="https://gist.github.com/himankbatra/028b2fcda3dee6783db9add524118993.js"></script>
+
 
 ## Some of my Github Stats
 ![himankbatra visitors](https://visitor-badge.glitch.me/badge?page_id=himankbatra)
