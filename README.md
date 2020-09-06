@@ -32,7 +32,7 @@
 
 :sunglasses:
 
-<script src="https://gist.github.com/himankbatra/028b2fcda3dee6783db9add524118993.js"></script>
+<script src="https://gist.github.com/himankbatra/028b2fcda3dee6783db9add524118993.js"\></script\>
 
 
 ## Some of my Github Stats
