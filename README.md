@@ -34,7 +34,7 @@
 
 | Backend                                                     | Database                                        | Frontend                                               | Devops                                                       | Testing                        |
 | ----------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
-| JAVA,GO,SPRING,HIBERNATE,SPRING BOOT,REST API,MICROSERVICES | ORACLE-PLSQL,POSTGRES,MYSQL,MSSQL,REDIS,MONGODB | ANGULAR JS,JQUERY,NODE JS,HTML5,THYMLEAF,CSS,BOOTSTRAP | MAVEN,GRADLE,JBOSS,APACHE TOMCAT,CIRCLE-CI,JENKINS,HEROKU,DOCKER,DOCKER-COMPOSE,AZURE,AMAZON AWS,TERAFORM,ANSIBLE,KUBERNATES,HELM,ISTIO,JWT,KEYCLOAK ZUUL | JUNIT,MOCKMVC SECURITY TESTING |
+| JAVA,GO,SPRING,HIBERNATE,SPRING BOOT,REST API,MICROSERVICES | ORACLE-PLSQL,POSTGRES,MYSQL,MSSQL,REDIS,ELASTIC SEARCH,MONGODB | ANGULAR JS,JQUERY,NODE JS,HTML5,THYMLEAF,CSS,BOOTSTRAP | MAVEN,GRADLE,JBOSS,APACHE TOMCAT,CIRCLE-CI,JENKINS,HEROKU,DOCKER,DOCKER-COMPOSE,AZURE,AMAZON AWS,TERAFORM,ANSIBLE,KUBERNATES,HELM,ISTIO,JWT,KEYCLOAK,ZIPKIN,JAEGER,KIBANA,ZUUL | JUNIT,MOCKMVC,SECURITY TESTING |
 
 
 
