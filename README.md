@@ -32,7 +32,11 @@
 
 :sunglasses:
 
-<script src="https://gist.github.com/himankbatra/028b2fcda3dee6783db9add524118993.js"\></script\>
+| Backend                                                     | Database                                        | Frontend                                               | Devops                                                       | Testing                        |
+| ----------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
+| JAVA,GO SPRING,HIBERNATE,SPRING BOOT,REST API,MICROSERVICES | ORACLE-PLSQL,POSTGRES,MYSQL,MSSQL REDIS,MONGODB | ANGULAR JS,JQUERY,NODE JS HTML5,THYMLEAF CSS,BOOTSTRAP | MAVEN,GRADLE JBOSS,APACHE TOMCAT CIRCLE-CI,JENKINS HEROKU DOCKER,DOCKER-COMPOSE AZURE,AMAZON AWS,TERAFORM,ANSIBLE KUBERNATES,HELM,ISTIO JWT,KEYCLOAK ZUUL | JUNIT,MOCKMVC SECURITY TESTING |
+
+
 
 
 ## Some of my Github Stats
