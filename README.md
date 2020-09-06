@@ -24,14 +24,16 @@
 
 - :bulb: Fun facts : First solve the problem, then write the code :innocent:
 
-- :sunglasses: My technology stack is Java,Spring Framework,Spring Boot,Azure,Docker,Kubernates,SQL-Server,Oracle,Redis,REST API, Microservices
+- :sunglasses: My technology stack : Java,Spring,Spring Boot,Azure,Docker,Kubernates,SQL-Server,Oracle,Redis,REST API,Microservices.
 
 - :dart: Motivated towards Clean Code Principles.
 
-- :book: I'm currently reading The Pragmatic Programmer Book by Andy Hunt and Dave Thomas.
-
+- :book: I'm currently reading "The Pragmatic Programmer Book by Andy Hunt and Dave Thomas".
 
 ## Some of my Github Stats
-![himankbatra github stats](https://github-readme-stats.vercel.app/api?username=himankbatra&show_icons=true)
+![himankbatra visitors](https://visitor-badge.glitch.me/badge?page_id=himankbatra)
+
+![himankbatra github stats](https://github-readme-stats.vercel.app/api?username=himankbatra&show_icons=true) 
 
 ⭐️ From [himankbatra](https://github.com/himankbatra)
+
